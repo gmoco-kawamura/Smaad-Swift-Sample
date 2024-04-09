@@ -1,0 +1,16 @@
+PODS:
+  - smaad-swift-sdk (1.0.1)
+
+DEPENDENCIES:
+  - smaad-swift-sdk (>= 1.0.1)
+
+SPEC REPOS:
+  trunk:
+    - smaad-swift-sdk
+
+SPEC CHECKSUMS:
+  smaad-swift-sdk: 81ca378c1a8e82c86d3ba3873b494e2c122b278e
+
+PODFILE CHECKSUM: c3c2e645e649ab99a2f5551407ff71e5a3be2dfb
+
+COCOAPODS: 1.15.2
